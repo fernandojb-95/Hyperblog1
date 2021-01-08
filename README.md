@@ -11,6 +11,8 @@ Recomiendo este curso a todos los que quieran empezar en el mundo de la tecnolog
 
 Solo necesitas paciencia y constancia.
 
+Hazlo y veras como tu vida puede cambiar.
+
 En fin, esto es solo el principio de la **Escuela de Desarrollo Web de Platzi**
 
 ### NUNCA PARES DE APRENDER
