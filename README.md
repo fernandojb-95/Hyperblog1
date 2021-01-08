@@ -7,6 +7,8 @@ También aprendí como funcionan las ramas y como se fusionan haciendo uso de el
 
 Y no solo eso, aprendí como todo se relaciona con Github y como se lleva a cabo el flujo de desarrollo en el entorno profesional.
 
+Recomiendo este curso a todos los que quieran empezar en el mundo de la tecnologia
+
 En fin, esto es solo el principio de la **Escuela de Desarrollo Web de Platzi**
 
 ### NUNCA PARES DE APRENDER
